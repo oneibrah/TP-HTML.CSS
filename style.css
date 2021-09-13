@@ -1,0 +1,50 @@
+body{
+	margin: 10% 20% 20% 35%;
+}
+.linear-gradient {
+  background: linear-gradient(orange, white);
+}
+
+.content{
+	background-color: white;
+	width: 80%;
+	height: 200%;
+	box-shadow: 10px 10px 5px grey;
+}
+
+.marge{
+	margin-left: 15%;
+}
+
+input{
+  padding: 8px;
+  margin: 8px 0px;
+  box-sizing: border-box;
+  border: 2px solid grey;
+  border-radius: 4px;
+}
+
+.button{
+	background-color: blue;
+	color: white;
+} 
+.button-blue{ 
+	color: white;
+	background-color: red;
+
+}
+
+label{
+	font-size: 20px;
+}
+
+img{
+	padding: 6px 200px;
+	border-style: solid;
+	border-color: orange;
+	border-width: 5px;
+	border-radius: 50% solid orange;
+}
+.valide:valid{
+	border-color: green;
+}
